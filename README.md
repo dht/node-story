@@ -2,7 +2,7 @@
 
 Create stateful waterfall scenarios easily:
 
-`js
+```js
 const ExampleStory = require('./ExampleStory');
 const log = require('./log');
 
@@ -23,7 +23,7 @@ exampleStory
         console.log('err ->', err);
     })
 
-`
+```
 
 ## Incentive
 Create easy tested
